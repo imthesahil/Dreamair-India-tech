@@ -48,7 +48,7 @@ export function Footer() {
 
   const openStudentPortal = () => {
     const message = "Hi! I would like to access the student portal. Could you please help me with the login details?"
-    const phoneNumber = "+919876543210"
+    const phoneNumber = "+916201239925"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
@@ -56,7 +56,7 @@ export function Footer() {
   const openCareerGuidance = () => {
     const message =
       "Hi! I'm interested in career guidance for aviation. Could you please provide more information about career opportunities?"
-    const phoneNumber = "+919876543210"
+    const phoneNumber = "+916201239925"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }

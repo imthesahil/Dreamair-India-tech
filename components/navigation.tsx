@@ -20,7 +20,7 @@ export function Navigation() {
   const handleBrochureDownload = () => {
     const message =
       "Hi! I would like to download the Dreamair India Tech aviation training brochure. Could you please send it to me?"
-    const phoneNumber = "+919876543210"
+    const phoneNumber = "+916201239925"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
