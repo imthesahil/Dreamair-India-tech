@@ -11,7 +11,7 @@ export function AboutSection() {
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">Recognized & Certified</h2>
             <div className="space-y-4 text-lg text-muted-foreground">
               <p>
-                Dreamair India Tech is recognized as one of India's premier aviation training institutes, setting the
+                Dreamair India is recognized as one of India's premier aviation training institutes, setting the
                 standard for excellence in pilot and cabin crew education.
               </p>
               <p>

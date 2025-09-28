@@ -20,13 +20,13 @@ export function Navigation() {
   const handleBrochureDownload = () => {
     const message =
       "Hi! I would like to download the Dreamair India Tech aviation training brochure. Could you please send it to me?"
-    const phoneNumber = "+916201239925"
+    const phoneNumber = "+918210427204"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
   const handleApplyNow = () => {
-    // Scroll to contact section
+    // Scroll to contact sections
     document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })
   }
 
@@ -42,7 +42,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-primary whitespace-nowrap" aria-label="Go to homepage">
-              Dreamair India Tech
+              Dreamair India
             </Link>
           </div>
 

@@ -10,23 +10,23 @@ export function TestimonialsSection() {
 
   const testimonials = [
     {
-      name: "Rajesh Kumar",
+      name: "Tejaswini Thakur",
       role: "Commercial Pilot",
       company: "IndiGo Airlines",
-      text: "Dreamair India Tech helped make my pilot career dreams a reality. The DGCA-approved training was comprehensive and the instructors were world-class.",
+      text: "Dreamair India helped make my pilot career dreams a reality. The DGCA-approved training was comprehensive and the instructors were world-class.",
       rating: 5,
       image: "/placeholder.svg?key=pilot1",
     },
     {
-      name: "Priya Sharma",
+      name: "Shivanand Thakur",
       role: "Flight Instructor",
-      company: "Dreamair India Tech",
+      company: "Dreamair India",
       text: "Excellent training facility with modern aircraft! The CFI program prepared me perfectly for my career as a flight instructor in India.",
       rating: 5,
       image: "/placeholder.svg?key=pilot2",
     },
     {
-      name: "Arjun Patel",
+      name: "Jay",
       role: "First Officer",
       company: "Air India",
       text: "The comprehensive training and DGCA certification gave me the confidence to excel in my aviation career with Air India.",
@@ -34,7 +34,7 @@ export function TestimonialsSection() {
       image: "/placeholder.svg?key=pilot3",
     },
     {
-      name: "Sneha Reddy",
+      name: "Kiran Thakur",
       role: "Cabin Crew",
       company: "Vistara",
       text: "The cabin crew certification program was thorough and professional. I landed my dream job with Vistara right after graduation.",
@@ -42,7 +42,7 @@ export function TestimonialsSection() {
       image: "/placeholder.svg?key=crew1",
     },
     {
-      name: "Vikram Singh",
+      name: "Sahil Kumar",
       role: "Aircraft Maintenance Engineer",
       company: "SpiceJet",
       text: "The technical training program gave me hands-on experience with modern aircraft systems. Now I'm working with SpiceJet's maintenance team.",

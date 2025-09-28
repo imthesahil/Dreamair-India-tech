@@ -39,7 +39,7 @@ export function CoursesSection() {
   const handleLearnMore = (courseTitle: string) => {
     // Scroll to contact section or open course details
     const message = `Hi! I'm interested in learning more about the ${courseTitle} program. Could you please provide detailed information?`
-    const phoneNumber = "+916201239925"
+    const phoneNumber = "+918210427204"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }

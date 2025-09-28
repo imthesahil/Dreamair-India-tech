@@ -6,9 +6,12 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Dreamair India Tech - Your Gateway to Global Aviation Careers",
+  title: "Dreamair India - Your Gateway to Global Aviation Careers",
   description:
     "Professional aviation training institute offering globally recognized certifications in Commercial Pilot License, Flight Instructor, Type Rating, and Cabin Crew programs across USA, South Africa, New Zealand, and Canada.",
+    icons: {
+    icon: "/Dream Air Logo.jpeg", // Make sure this file exists inside your public/ folder
+  },
 }
 
 export default function RootLayout({

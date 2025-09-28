@@ -90,7 +90,7 @@ export function ContactSection() {
                           type="tel"
                           value={formData.phone}
                           onChange={handleChange}
-                          placeholder="+91 98765 43210"
+                          placeholder="+91 88094 63372"
                           className="transition-all duration-300 focus:scale-105"
                         />
                       </div>
@@ -147,8 +147,8 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Email Us</h3>
-                    <p className="text-muted-foreground">info@dreamairindia.tech</p>
-                    <p className="text-muted-foreground">admissions@dreamairindia.tech</p>
+                    <p className="text-muted-foreground">admin@dreamairindia.com</p>
+                    <p className="text-muted-foreground">tejaswinithakur@dreamairindia.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -162,8 +162,8 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Call Us</h3>
-                    <p className="text-muted-foreground">+91 98765 43210</p>
-                    <p className="text-muted-foreground">+91 87654 32109</p>
+                    <p className="text-muted-foreground">+91 88094 63372</p>
+                    <p className="text-muted-foreground">+91 62012 39925</p>
                   </div>
                 </div>
               </CardContent>
@@ -178,7 +178,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Visit Us</h3>
                     <p className="text-muted-foreground">
-                      Dreamair India Tech Aviation Hub
+                      Dreamair India
                       <br />
                       Sector 18, Cyber City
                       <br />

@@ -10,7 +10,7 @@ export function HeroSection() {
 
   const handleWatchVideo = () => {
     // Open a sample video or modal
-    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank")
+    window.open("https://youtu.be/QamPqcXlIO8?si=U3LTD5OKszc21c4O", "_blank")
   }
 
   return (

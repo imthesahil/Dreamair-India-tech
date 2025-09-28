@@ -48,7 +48,7 @@ export function Footer() {
 
   const openStudentPortal = () => {
     const message = "Hi! I would like to access the student portal. Could you please help me with the login details?"
-    const phoneNumber = "+916201239925"
+    const phoneNumber = "+918210427204"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
@@ -56,7 +56,7 @@ export function Footer() {
   const openCareerGuidance = () => {
     const message =
       "Hi! I'm interested in career guidance for aviation. Could you please provide more information about career opportunities?"
-    const phoneNumber = "+916201239925"
+    const phoneNumber = "+918210427204"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
@@ -84,7 +84,7 @@ export function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-6">
               <Link href="/" className="text-2xl font-bold" aria-label="Go to homepage">
-                Dreamair India Tech
+                Dreamair India
               </Link>
             </div>
             <p className="text-primary-foreground/80 mb-6 max-w-md text-pretty">
@@ -128,7 +128,7 @@ export function Footer() {
 
         <div className="border-t border-primary-foreground/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-primary-foreground/80 text-sm">© 2025 Dreamair India Tech. All rights reserved.</p>
+            <p className="text-primary-foreground/80 text-sm">© 2025 Dreamair India. All rights reserved.</p>
             <div className="flex gap-6 text-sm">
               <button
                 onClick={handlePrivacyPolicy}
